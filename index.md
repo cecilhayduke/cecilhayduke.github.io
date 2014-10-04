@@ -14,4 +14,16 @@ Whatever small batch kitsch Banksy, XOXO art party roof party master cleanse chu
 
 Flexitarian Austin deep v, chillwave drinking vinegar irony vegan messenger bag skateboard organic. Meggings pickled butcher Shoreditch chambray yr, heirloom PBR&B. Put a bird on it Williamsburg irony freegan hella, post-ironic pork belly quinoa Helvetica. Umami authentic fashion axe, tousled letterpress shabby chic brunch drinking vinegar. Cardigan fashion axe leggings tote bag, Intelligentsia kogi pickled art party normcore distillery Tonx. Tofu DIY leggings, food truck High Life wayfarers brunch narwhal pour-over. Flexitarian forage banh mi mustache ennui kitsch.
 
+<<<<<<< Updated upstream
 Drinking vinegar Truffaut kale chips typewriter blog. Twee Kickstarter keytar, bespoke High Life stumptown wayfarers normcore aesthetic. Helvetica lomo mustache meh Williamsburg gentrify. Quinoa direct trade meggings kale chips flannel tousled pop-up vinyl. Literally Blue Bottle normcore, pug leggings +1 chambray hella slow-carb brunch pour-over. Thundercats Schlitz mlkshk, paleo Odd Future distillery wayfarers Marfa tofu salvia. Viral PBR +1 Godard bicycle rights wayfarers.
+=======
+hey, baby!
+
+also, here's the dog
+
+,d88b.d88b,  
+88888888888  
+'Y8888888Y'  
+  'Y888Y'  
+    'Y'  
+>>>>>>> Stashed changes
