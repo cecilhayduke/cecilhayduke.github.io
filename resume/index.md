@@ -87,6 +87,7 @@ For Chase Bobko clients
 * Corporate brand ambassador, business paper and collateral design, press check, production management, copywriting, web site design and production
 
 ##Education##
+
 ###Ascentium###
 Delivery Management Academy, 2011
 
