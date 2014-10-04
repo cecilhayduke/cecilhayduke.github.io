@@ -11,6 +11,6 @@ h3 {font-size:1.25rem;font-weight:bold;}
 
 
 
-@media (max-width: 600px) {
-    body {font-size:100%;}  
+@media (max-width: 800px) {
+    body {font-size:120%;}  
 }
