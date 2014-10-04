@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: chrome
 title: keith mcmahon resume
 ---
 #Keith McMahon
