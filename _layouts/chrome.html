@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div id="main">
+    <section id="nav">
         <nav>
             <ul id="mainnav">
             {% for page in site.pages_list %}
@@ -17,10 +17,10 @@
             {% endfor %}   
             </ul>
         </nav>
-        <section id="content">
-            {{ content }}
-        </section>
-    </div>
+    </section>
+    <section id="content">
+        {{ content }}
+    </section>
 </body>
 
 </html>

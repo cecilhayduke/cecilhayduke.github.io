@@ -1,4 +1,5 @@
 pages_list:       
   Home: '/'
+  Pics: '/pictures/'
   Resume: '/resume/'
   About: '/about/'
