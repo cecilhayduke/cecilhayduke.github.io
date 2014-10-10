@@ -15,8 +15,8 @@ h3 {font-size:1.25rem;font-weight:bold;}
 
 nav a {color:#fff;text-decoration:none;}
 
-@media (max-width:800px) {
-    html {font-size:20px;}
+@media (max-width:400px) {
+    html {font-size:17px;}
 }
 
 
