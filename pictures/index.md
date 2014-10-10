@@ -12,4 +12,3 @@ something about pictures
 <span class="image">![Fog](/resources/pics/fog.jpg "Fog")</span>
 <span class="image">![Setting](/resources/pics/setting.jpg "Setting")</span>
 <span class="image">![Sky](/resources/pics/sky.jpg "Sky")</span>
-

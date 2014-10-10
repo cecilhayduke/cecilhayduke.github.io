@@ -10,19 +10,21 @@
 </head>
 
 <body>
-
-    <section id="nav">
-        <nav>
-            <ul id="mainnav">
-            {% for page in site.pages_list %}
-                <li><a href="{{ page[1]  }}">{{ page[0] }}</a></li>
-            {% endfor %}   
-            </ul>
-        </nav>
-    </section>
-    <section id="content">
-        {{ content }}
-    </section>
+    
+    <div id="wrapper">
+        <section id="nav">
+            <nav>
+                <ul id="mainnav">
+                {% for page in site.pages_list %}
+                    <li><a href="{{ page[1]  }}">{{ page[0] }}</a></li>
+                {% endfor %}   
+                </ul>
+            </nav>
+        </section>
+        <section id="content">
+            {{ content }}
+        </section>
+    </div>
 
 </body>
 
