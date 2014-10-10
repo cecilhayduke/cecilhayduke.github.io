@@ -2,7 +2,7 @@
 layout: chrome
 title: About
 ---
-#About
+#About#
 
 about content
 
