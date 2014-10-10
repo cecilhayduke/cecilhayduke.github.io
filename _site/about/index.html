@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>{{ page.title }}</title>
+<title>About</title>
 
-<link rel="stylesheet" href="{{site.baseurl}}/resources/css/me.css" />
+<link rel="stylesheet" href="/resources/css/me.css" />
 
 </head>
 
@@ -12,13 +12,21 @@
     <div id="main">
         <nav>
             <ul id="mainnav">
-            {% for page in site.pages_list %}
-                <li><a href="{{ page[1]  }}">{{ page[0] }}</a></li>
-            {% endfor %}   
+            
+                <li><a href="/">Home</a></li>
+            
+                <li><a href="/resume/">Resume</a></li>
+            
+                <li><a href="/about/">About</a></li>
+               
             </ul>
         </nav>
         <section id="content">
-            {{ content }}
+            <h1 id="about">About</h1>
+
+<p>about content</p>
+
+
         </section>
     </div>
 </body>
