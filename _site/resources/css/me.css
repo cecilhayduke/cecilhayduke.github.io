@@ -1,17 +1,17 @@
 @charset "UTF-8";
 /* CSS Document */
-html {font-size:13px;margin:0;padding:0;}
-body {background-color:#fff;color:#000;font-family:Courier;}
+html {font-size:13px;margin:0;padding:0;overflow-y:scroll;}
+body {background-color:#fff;color:#000;font-family:Courier;margin:0;padding:0;}
+#container {margin:0 auto;width:100%;min-height:100vh;}
 
-nav, #content {margin:0 auto;padding:0 20px;}
+#content {padding:0;margin:0;width:83%;float:right;min-height:100vh;}
+#nav {padding:0;margin:25px 0 0 0;width:15%;float:left;min-height:50vh;border:0;border-right:1px dashed #c1c1c1;}
 
-#nav {background-color:#000;padding:10px 0;position:fixed;margin:0;top:0;left:0;width:100%;height:75px;}
-
-nav ul {list-style-type: none;margin:0 0 10px 0;padding:0;bottom:0;position:absolute;}
-nav ul li {display:inline;margin:0 20px 0 0;}
+nav ul {list-style-type: none;margin:50px 0 0 0;padding:0;bottom:0;}
+nav ul li {margin:0 0 20px 0;font-size:1.25rem;}
 
 
-h1 {font-size:2.5rem;margin:100px 0 0 0;}
+h1 {font-size:2.5rem;margin:20px 0 0 0;}
 h2 {font-size:1.8rem;}
 h3 {font-size:1.25rem;font-weight:bold;}
 
@@ -23,21 +23,27 @@ span.image {box-sizing:border-box;display:block;float:left;}
 
 
 @media (max-width:400px) {
-    html {font-size:17px;}
-}
-
-@media (min-width:401px) and (max-width:720px) {
     html {font-size:15px;}
 }
 
-@media (max-width:640px) {
-    span.image {width: 100%;}
+@media (min-width:401px) and (max-width:720px) {
+    html {font-size:14px;}
 }
 
-@media (min-width:641px) {
+@media (max-width:720px) {
+    span.image {width: 100%;}
+    #nav, #content {width:100%;}
+    #content {padding-top:75px;}
+    #nav {min-height:0vh;height:50px;border:0;border-bottom:1px dashed #c1c1c1;position:fixed;background-color:white;margin-top:0;}
+    html {overflow-x:hidden;}
+    nav ul {margin:20px 0 0 0;}
+    nav ul li {display:inline;padding:0 10px 0 0;}
+}
+
+@media (min-width:721px) {
     span.image {width: 50%;}
 }
 
-@media (min-width: 1200px) {
-    nav, #content  {width:1200px;}
+@media (min-width: 1101px) {
+    #container  {width:1100px;}
 }
