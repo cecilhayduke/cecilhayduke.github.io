@@ -5,48 +5,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Attribute Randomizer</title>
 	<meta name="description" content="A do it yourself name generator from online-generators.com" />
-
-	<script type="text/javascript">	
-		function getWord(){			
-			var attributelist = ["great friend","active","adventurous","affectionate","alert","assertive","athletic","attentive","available","bold","brave","calm","cautious","cheerful","committed","compassionate","confident","considerate","content","coordinated","courageous","creative","curious","decisive","deferential","dependable","determined","devoted","diligent","discerning","discrete","enduring","enthusiastic","expressive","fair","faithful","flexible","forgiving","generous","gentle","graceful","grateful","helpful","hospitable","humble","humorous","imaginative","intelligent","intuitive","joyful","kind","lighthearted","loving","loyal","meek","mellow","merry","mysterious","nurturing","organized","open","patient","passionate","persuasive","playful","practical","proactive","provocative","punctual","reserved","resourceful","responsible","irreverent","reverent","self-controlled","sensitive","sexy","sincere","supportive","tenacious","thorough","thoughtful","tolerant","trusting","truthful","virtuous","vulnerable","warm","wise","witty","zany"]
-
-			var randomattribute = parseInt(Math.random() * attributelist.length);
-			var name = attributelist[randomattribute];			
- 
-			if(document.getElementById("word")){
-				document.getElementById("words").removeChild(document.getElementById("word"));
-			}
-			var element = document.createElement("div");
-			element.setAttribute("id", "word");
-			element.appendChild(document.createTextNode(name));
-			document.getElementById("words").appendChild(element);
-		}		
-	</script>
-
-	<style type="text/css">
-		body{font-family: courier;margin:0;padding:0;border:0;background-color:#fff;color:#000;}
-        #container{min-height:100vh;}
-		#wrapper{text-align:center;margin:0 auto;padding:150px 0 0 0;}
-        #getnew{margin:50px 0 0 0;border:1px solid black;padding:10px;display:inline-block;background-color:#000;color:#fff;cursor:pointer;}
-        
-        @media (max-width:400px) {
-            html {font-size:25px;}
-            #wrapper {width:100%;}
-            #getnew {font-size:20px;}
-        }
-
-        @media (min-width:401px) and (max-width:800px) {
-            html {font-size:50px;}
-            #wrapper {width:100%;}
-            #getnew {font-size:30px;}
-        }
-        
-        @media (min-width:801px) {
-            html {font-size:90px;}
-            #wrapper {width:800px;}
-            #getnew {font-size:30px;}
-        }
-	</style>
+	<script src="/resources/js/attributes.js"></script>
+	<link rel="stylesheet" href="/resources/css/attributes.css" />
 </head>
     
 <body onload="getWord()">
