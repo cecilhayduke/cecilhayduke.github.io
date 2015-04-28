@@ -9,6 +9,13 @@ title: keith mcmahon resume
 ###Technical Analyst
 **April 2012-present - POP**
 
+* Work with clients and internal leads to pursue, scope, brainstorm, and define project deliverables
+* Lead the estimation and assumptions gathering process for technology project deliverables
+* Partner with creative discipline leads to review and comment on wireframe, design, and content drafts
+* Create project documentation and training manuals, technical and functional specifications, approach review and connectivity documents, and project work items
+* Manage technical delivery workflow, participate in daily stand-ups, lead build reviews, and present to and lead client discussions
+
+
 ###Technical Director, Associate Partner###
 **March 2004-April 2012 - Ascentium (now SMITH)**
 
@@ -97,16 +104,5 @@ Delivery Management Academy, 2011
 ###California State University, Chico###
 BA, English, 1992
 
-##Recommendations##
-I had the honor of hiring Keith many years ago and he was one of my best hires! He was instrumental in helping to shape Ascentium and was well respected by the Senior Management team. He has a knack for communicating and getting his ideas and points across. He is a fabulous manager and his teams respect him and enjoy working for him. Keith's honesty is refreshing and much needed. I wish him only the best and you are lucky to have him on your team.
-**- [Jill Ranft](https://www.linkedin.com/profile/view?id=2249448&authToken=-lGI "Jill Ranft"), Senior Recruiter**
-
-Working with Keith over the past four years has truly been a blessing. I’ve learned so much from Keith in so many aspects of the technology industry. He’s a leader, a motivator, an advocate for his employees, an incredibly talented technologist that has adapted, and helped Ascentium branch out in so many different technological channels. He’s innovative, passionate, and a tremendous asset to our team. If you need something done right– you find Keith. If you need someone to boost morale, or help lead a team through a difficult situation– you find Keith. It’s been an honor working with Keith, and I look forward to what’s in store for him in the future.
-**- [Mark Cavanaugh](https://www.linkedin.com/profile/view?id=16047207&authToken=gw3Q "Mark Cavanaugh"), Account Director**
-
-I write this recommendation of Keith through the frame in which I know him – Keith the leader. I experience Keith to be a man committed to adding value. Quick to engage in a thoughtful manner, he is loyal to his people and steadfast in his resolve to create successful outcomes. Most importantly, I believe, Keith is fully invested in relationship and community building, both hallmarks of a leader who others follow because they want to, not because they are obliged to. **-[Phil Holcomb](https://www.linkedin.com/profile/view?id=6085918&authToken=utb9 "Phil Holcomb"), Seminar Leader and Coach, Extraordinary Learning**
-
-Fearless passion and compassion are the words that most quickly come to mind when I think of Keith McMahon. Keith cared deeply for the well-being of Ascentium and the people that looked to him for leadership. He never feared to raise awareness of situations that, while possibly unpopular with senior management, were nonetheless very important for the continued success of the company. He is a forthright person on whom you can depend. **-[David Bly](https://www.linkedin.com/profile/view?id=2804394&authToken=75b9 "David Bly"), Project Management Consultant**
-
-I've worked with Keith for 8 years. Keith is a passionate technologist and a seasoned manager, who makes a difference in any engagement. His customer skills are great, he is knowledgeable and thorough, and you can rely on Keith for making things happen. Keith is a good mentor, always looking after his team, while helping his reports achieve the next level in their career. I highly recommend Keith. **- [Max Romanenko](https://www.linkedin.com/profile/view?id=9868213&authToken=xx4R "Max Romanenko"), President**
+For skills, endorsements, recommendations, and other experience, please see my LinkedIn profile: [https://www.linkedin.com/in/cecilhayduke](https://www.linkedin.com/in/cecilhayduke "https://www.linkedin.com/in/cecilhayduke")
 
