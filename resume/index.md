@@ -104,5 +104,5 @@ Delivery Management Academy, 2011
 ###California State University, Chico###
 BA, English, 1992
 
-For skills, endorsements, recommendations, and other experience, please see my LinkedIn profile: [https://www.linkedin.com/in/cecilhayduke](https://www.linkedin.com/in/cecilhayduke "https://www.linkedin.com/in/cecilhayduke")
+For skills, endorsements, recommendations, and other experience, please see my LinkedIn profile: [Keith on LinkedIn](https://www.linkedin.com/in/cecilhayduke "https://www.linkedin.com/in/cecilhayduke")
 
