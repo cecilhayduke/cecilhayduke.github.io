@@ -18,6 +18,7 @@ In no particular order, I have had the privilege of working with the following c
     <li>Nike</li>
     <li>Target</li>
     <li>Amazon</li>
+    <li>New York City Ballet</li>
 </ul>
 </div>
 <div class="half last">
@@ -28,6 +29,7 @@ In no particular order, I have had the privilege of working with the following c
     <li>World Vision</li>
     <li>Project (RED)</li>
     <li>Major League Soccer</li>
+    <li>Seattle Sounders FC</li>
 </ul>
 </div>
 
