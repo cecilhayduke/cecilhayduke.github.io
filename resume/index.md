@@ -106,3 +106,7 @@ BA, English, 1992
 
 For skills, endorsements, recommendations, and other experience, please see my LinkedIn profile: [Keith on LinkedIn](https://www.linkedin.com/in/cecilhayduke "https://www.linkedin.com/in/cecilhayduke")
 
+##Download##
+
+PDF version of my resume is available for [download](/resources/docs/keith-mcmahon-resume.pdf "/resources/docs/keith-mcmahon-resume.pdf").
+
