@@ -10,7 +10,7 @@ body {background-color:#fff;color:#000;font-family:Courier;margin:0;padding:0;}
 li {margin-bottom:10px;}
 
 nav ul {list-style-type: none;margin:25px 0 0 0;padding:0;bottom:0;}
-nav ul li {margin:0 0 15px 20px;}
+nav ul li {margin:0 0 20px 20px;}
 
 
 h1 {font-size:2.5rem;margin:40px 0 0 0;}
@@ -46,7 +46,7 @@ span.image {box-sizing:border-box;display:block;float:left;}
     #nav {min-height:0vh;height:50px;border:0;border-bottom:1px dashed #c1c1c1;position:fixed;background-color:white;margin-top:0;}
     html {overflow-x:hidden;}
     nav ul {margin:20px 0 0 0;}
-    nav ul li {display:inline;padding:0 10px 0 0;}
+    nav ul li {display:inline;padding:0 10px 0 0;margin:0 0 5px 0;}
 }
 
 @media (min-width:721px) {
