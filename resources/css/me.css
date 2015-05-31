@@ -45,7 +45,7 @@ span.image {box-sizing:border-box;display:block;float:left;}
     #content {padding-top:75px;}
     #nav {min-height:0vh;height:50px;border:0;border-bottom:1px dashed #c1c1c1;position:fixed;background-color:white;margin-top:0;}
     html {overflow-x:hidden;}
-    nav ul {margin:20px 0 0 0;}
+    nav ul {margin:20px 0 0 20px;}
     nav ul li {display:inline;padding:0 10px 0 0;margin:0 0 5px 0;}
 }
 
