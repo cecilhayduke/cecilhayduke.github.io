@@ -6,6 +6,8 @@
 <title>{{ page.title }}</title>
 
 <link rel="stylesheet" href="{{site.baseurl}}/resources/css/me.css" />
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="{{site.baseurl}}/resources/js/cecil.js"></script>
 
 </head>
 
@@ -13,6 +15,11 @@
     <div id="container">    
         <section id="nav">
            <nav>
+               <ul id="mobilenav">
+               {% for page in site.menu %}
+                   <li><a class="mobilenav" href="#">{{ page[0] }}</a></li>
+               {% endfor %} 
+               </ul>
                <ul id="mainnav">
                {% for page in site.pages_list %}
                    <li><a class="mainnav" href="{{ page[1]  }}">{{ page[0] }}</a></li>

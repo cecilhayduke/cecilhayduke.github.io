@@ -1,5 +1,8 @@
+menu:
+  Menu: ''
+
 pages_list:       
   Intro: '/'
   Resume: '/resume/'
   Social: '/social/'
-  HSBC: '/hsbc/'
+  Homeschool Science Brewing Company: '/hsbc/'
