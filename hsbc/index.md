@@ -13,6 +13,7 @@ So the kids and I make beer. We have a logo -AND- t-shirts. And, while they cert
 <h2>Batches</h2>
 <p></p>
 <ul>
+    <li>Toasted Coconut Porter</li>
     <li>Davidson/Coons Memorial Pale Ale</li>
     <li>Citrus IPA</li>
     <li>Smoked Pumpkin Porter</li>
@@ -28,6 +29,8 @@ So the kids and I make beer. We have a logo -AND- t-shirts. And, while they cert
     <li>Peach Ale</li>
     <li>Coffee Stout</li>
 </ul>
+
+<p>Find us on <a href="https://untappd.com/HomeschoolScienceBrewingCompany">untappd</a></p>
 </div>
 
 
