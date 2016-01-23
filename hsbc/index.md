@@ -14,6 +14,7 @@ So the kids and I make beer. We have a logo -AND- t-shirts. And, while they cert
 <p></p>
 <ul>
     <li>Toasted Coconut Porter</li>
+    <li>Pink Label Rye PA</li>
     <li>Davidson/Coons Memorial Pale Ale</li>
     <li>Citrus IPA</li>
     <li>Smoked Pumpkin Porter</li>
