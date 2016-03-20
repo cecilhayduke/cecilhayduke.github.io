@@ -13,6 +13,7 @@ So the kids and I make beer. We have a logo -AND- t-shirts. And, while they cert
 <h2>Batches</h2>
 <p></p>
 <ul>
+    <li>Ass End of the Monkey Sour Brown</li>
     <li>Toasted Coconut Porter</li>
     <li>Pink Label Rye PA</li>
     <li>Davidson/Coons Memorial Pale Ale</li>
