@@ -5,7 +5,7 @@ body {background-color:#fff;color:#000;font-family:Courier;margin:0;padding:0;}
 #container {margin:0 auto;width:100%;min-height:100vh;}
 
 #content {padding:0;margin:0;width:80%;float:right;min-height:100vh;}
-#nav {padding:0;margin:25px 0 0 0;width:19%;float:left;min-height:70vh;border:0;border-right:1px dashed #c1c1c1;}
+#nav {padding:0;margin:25px 0 0 0;width:19%;float:left;min-height:70vh;border:0;border-right:1px dotted #666;}
 
 li {margin-bottom:10px;}
 
@@ -19,7 +19,7 @@ h3 {font-size:1.25rem;font-weight:bold;}
 
 h1,h2,h3,p {margin-left:20px;margin-right:20px;}
 
-nav a {color:#c1c1c1;text-decoration:none;}
+nav a {color:#666;text-decoration:none;}
 nav a:hover {text-decoration: underline; text-decoration-style: dotted;color:#000;}
 
 span.image {box-sizing:border-box;display:block;float:left;}
@@ -33,7 +33,7 @@ span.image {box-sizing:border-box;display:block;float:left;}
     span.image {width: 100%;}
     #nav, #content {width:100%;}
     #content {padding-top:75px;}
-    #nav {min-height:0vh;min-height:50px;border:0;border-bottom:1px dashed #c1c1c1;position:fixed;background-color:white;margin-top:0;}
+    #nav {min-height:0vh;min-height:50px;border:0;border-bottom:1px dotted #666;position:fixed;background-color:white;margin-top:0;}
     html {overflow-x:hidden;font-size:15px;}
     nav ul {margin:20px 0 0 20px;}
     nav ul li {padding:0 10px 0 0;margin:0 0 20px 0;}

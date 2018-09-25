@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, target-densitydpi=device-dpi" />
+<title>{{ page.title }}</title>
+
+<link rel="stylesheet" href="{{site.baseurl}}/resources/css/me.css" />
+<script src="{{site.baseurl}}/resources/js/cecil.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/chrisveness/crypto/master/sha1.js"></script>
+
+
+</head>
+
+<body>
+    <div id="container">    
+        <section id="nav">
+           <nav>
+               <ul id="mobilenav">
+               {% for page in site.menu %}
+                   <li><a class="mobilenav" href="#">{{ page[0] }}</a></li>
+               {% endfor %} 
+               </ul>
+               <ul id="mainnav">
+               {% for page in site.pages_list %}
+                   <li><a class="mainnav" href="{{ page[1]  }}">{{ page[0] }}</a></li>
+               {% endfor %}   
+               </ul>
+           </nav>
+       </section>
+       <section id="content">
+           {{ content }}
+       </section>       
+    </div>
+    
+
+<script src="{{site.baseurl}}/resources/js/login.js"></script>
+</body>
+
+</html>
