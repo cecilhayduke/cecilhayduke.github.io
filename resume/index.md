@@ -2,12 +2,21 @@
 layout: chrome
 title: keith mcmahon resume
 ---
-#Keith McMahon
+# Keith McMahon
 
-##Experience
+## Experience
 
-###Technical Analyst
-**April 2012-present - POP**
+### Digital BA Lead
+**September 2016-present - Avanade**
+
+* Client workshops
+* Functional and technical requirement gathering and documentation 
+* User stories and acceptance criteria 
+* Wireframes and annotated feature/functional documentation 
+* Content writing and editing
+
+### Technical Analyst
+**April 2012-May 2016 - POP**
 
 * Work with clients and internal leads to pursue, scope, brainstorm, and define project deliverables
 * Lead the estimation and assumptions gathering process for technology project deliverables
@@ -16,7 +25,7 @@ title: keith mcmahon resume
 * Manage technical delivery workflow, participate in daily stand-ups, lead build reviews, and present to and lead client discussions
 
 
-###Technical Director, Associate Partner###
+### Technical Director, Associate Partner
 **March 2004-April 2012 - Ascentium (now SMITH)**
 
 Ascentium responsibilities
@@ -38,7 +47,7 @@ Ascentium client responsibilities
 * Primary Ascentium client accounts: Microsoft, McKesson
 * Awarded Associate Partner status in May, 2008
 
-###Freelance###
+### Freelance 
 **2001-2004 - Hindsight Now**
 
 The Seattle Times - Seattle, WA
@@ -60,7 +69,7 @@ Great Spaces by Thierry - Soho, NYC
 
 * Web design and development, graphic production
 
-###Creative Services Specialist###
+### Creative Services Specialist
 **2002 - Go-To-Market Strategies**
 
 For Go-To-Market Strategies
@@ -71,7 +80,7 @@ For Go-To-Market Strategies clients
 
 * Business paper and collateral design, press check, production management
 
-###Senior Production Lead###
+### Senior Production Lead
 **1999-2001 - Chase Bobko**
 
 For Chase Bobko
@@ -82,31 +91,37 @@ For Chase Bobko clients
 
 * Web site development, information architecture, graphic production
 
-###Creative Services Specialist###
+### Creative Services Specialist
 1998-1999 - Data Dimensions
 
 * Corporate brand ambassador, business paper and collateral design, product packaging design, press check, production management, copywriting, web site design and production
 
-###Software Test Lead, Webmaster###
+### Software Test Lead, Webmaster
 **1995-1998 - ST Labs**
 
 * Software test leadership
 * Corporate brand ambassador, business paper and collateral design, press check, production management, copywriting, web site design and production
 
-##Education##
+## Education and Training
 
-###Ascentium###
+### Avanade
+Envisioning 101, 2018  
+Angular 2, 2017  
+DMA II, 2017  
+DMA I, 2016
+
+### POP
+Business Writing, 2016  
+Effective Presentations, 2015
+
+### Ascentium
 Delivery Management Academy, 2011
 
-###Extraordinary Learning###
+### Extraordinary Learning
 21st Century Leadership, 2010
 
-###California State University, Chico###
+### California State University, Chico
 BA, English, 1992
 
 For skills, endorsements, recommendations, and other experience, please see my LinkedIn profile: [Keith on LinkedIn](https://www.linkedin.com/in/cecilhayduke "https://www.linkedin.com/in/cecilhayduke")
-
-##Download##
-
-PDF version of my resume is available for [download](/resources/docs/keith-mcmahon-resume.pdf "/resources/docs/keith-mcmahon-resume.pdf").
 
